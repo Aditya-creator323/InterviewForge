@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.DS_Store
+
+# accidental npm at repo root (real app is InterviewForge_frontend/)
+/package.json
+/package-lock.json
+# keep local only
+frontend/
+ProjectRoadmap.txt
+.vite/
